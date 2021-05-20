@@ -1,0 +1,19 @@
+Enter the number associated with your chosen menu option.
+1: Refill tile rack
+2: Display game state
+3: Play -- place tiles on game board
+4: Calculate score for an intended play
+5: Check the validity of a given play
+6: Exit this application
+2
+[-, -, -, -, -, -, -, -, -, -]
+[-, -, -, -, -, -, -, -, -, -]
+[-, -, -, -, -, -, -, -, -, -]
+[-, -, -, +, -, -, +, -, -, -]
+[-, +, -, -, -, -, -, -, +, -]
+[-, +, -, -, -, -, -, -, +, -]
+[-, -, -, +, -, -, +, -, -, -]
+[-, -, -, -, -, -, -, -, -, -]
+[-, -, -, -, -, -, -, -, -, -]
+[-, -, -, -, -, -, -, -, -, -]
+
